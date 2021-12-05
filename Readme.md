@@ -1,7 +1,7 @@
  <div align="center">
- <h2 align="center"> Hello World!</h2>
- <h2 align="center"> Im Nicolás Mariano Morel</h2>
- <h3 align="center"> Full-Stack Developer</h3>
+ <h2 > Hello World!</h2>
+ <h2 > Im Nicolás Mariano Morel</h2>
+ <h3 > Full-Stack Developer</h3>
 </div>
 <hr>
 <!-- MAIN PHRASE SECTION -->

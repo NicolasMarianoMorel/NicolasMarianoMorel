@@ -1,8 +1,6 @@
  <div align="center">
- <h2 > Hello World!</h2>
- <h2 > Im Nicolás Mariano Morel</h2>
- <h3 > Full-Stack Developer</h3>
-</div>
+<h2 > Hello World! Im Nicolás Mariano Morel, a Full-Stack Developer of 27 years old. <br> Let me tell you something about me...</h2>
+ </div>
 <hr>
 <!-- MAIN PHRASE SECTION -->
 <span align="center">

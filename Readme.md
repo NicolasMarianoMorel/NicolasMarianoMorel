@@ -43,7 +43,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
          <a href="https://es.redux.js.org/" target="_blank"> <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="redux" width="40" height="40"/> </a>
-         <a href="https://sequelize.org/" target="_blank"> <img src="https://sequelize.org/master/image/brand_logo.png" alt="sequalize" width="40" height="40"/> </a>
+         <a href="https://sequelize.org/" target="_blank"> <img src="http://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png" alt="sequelize" width="40" height="40"/> </a>
     
 
 </p>  

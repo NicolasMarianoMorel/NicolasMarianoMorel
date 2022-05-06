@@ -44,6 +44,8 @@
      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
          <a href="https://es.redux.js.org/" target="_blank"> <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="redux" width="40" height="40"/> </a>
          <a href="https://sequelize.org/" target="_blank"> <img src="https://camo.githubusercontent.com/58e35d08b53ec029f0e3e587a28a6f65777d352f797add843d153a0db60b9d7d/68747470733a2f2f692e696d6775722e636f6d2f79764559686e5a2e706e67" alt="sequelize" width="40" height="40"/> </a>
+         <a href="https://nextjs.org/" target="_blank"> <img src="https://docs.microsoft.com/es-es/windows/images/nextjs-logo.png" alt="next" width="40" height="40"/> </a>
+          <a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nest" width="40" height="40"/> </a>
     
 
 </p>  

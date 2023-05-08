@@ -14,7 +14,7 @@
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
     <li>🔭  <strong>Currently working at Darwoft. </strong></li>
-    <li>🌱 I’m currently learning <strong>TypeScript and Mongodb.</strong></li>
+    <li>🌱 I’m currently learning <strong>React Native and AWS.</strong></li>
     <li>📫 How to reach me <strong>nicolasmorel77@gmail.com<strong></li>
   </ul>
 
